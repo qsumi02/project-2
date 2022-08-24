@@ -1,0 +1,206 @@
+#title{
+    background-color:darkturquoise;
+    height: auto;
+    color: black;
+    
+}
+
+
+.navbar-brand{
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+
+.container-fluid{
+    margin: 2%, 10%, 2%, 10% ;
+
+}
+
+.image{
+    border-radius: 50%; 
+
+}
+.me{
+    font-weight: bold;
+    color: #ff4c68;
+        
+    
+}
+
+hr{
+    border-width: 4px;
+    width: 20%;
+    border-style: none;
+    border-top-style: dotted;
+    
+
+}
+.font{
+    font-family:"mukta-bold";
+    font-size: larger;
+    line-height: 1.5;
+}  
+    
+
+.sumayyah{
+     display: flex;
+   align-items: center;
+   justify-content: center;
+   margin-top: 30px;
+   font-family: "teko";
+
+}
+.h3-2{
+    text-align: center;
+}
+.pro{
+    text-decoration:underline;
+    color: purple;
+}
+.h2-1{
+    margin-bottom: 15%;
+}
+
+.tajudeen{
+    overflow: hidden;
+    padding-top: 9%;
+    margin-left: 6%;
+    padding-bottom: 90px;
+
+    
+}
+
+.paragraph-1{
+    line-height: 2;
+ 
+}
+
+
+/* ABOUT ME */
+#About-me{
+  
+    text-align: center;
+    line-height: 2;
+    height: 100%;
+    width: 100%;
+    padding: 5%;
+}
+.me{
+    margin-bottom: 3%;
+}
+
+.icon{
+padding: 7px;
+}
+
+.page-1{
+    display: inline-block;
+    background-color:black;
+
+    height: auto;
+
+
+}
+
+
+
+.page{
+    height: 14rem;
+    width: 30rem;
+    background-color: lightblue;
+    border-radius: 50% 0% 50% 50%;
+    display: inline-block;
+    position: relative;
+    left:300px ;
+    
+
+
+        
+      }
+
+      .page-2{
+        height: 13rem;
+        width: 30rem;
+        background-color: palevioletred;
+        border-radius: 50% 50% 50% 0%;
+      display: inline-block;
+        position: relative;
+        right:50px;
+    margin-bottom: 4px;   
+      }
+      
+    
+      .circle{
+        height: 300px;
+        width: 300px;
+        background-color:darkturquoise;
+        border-radius: 50%;
+        margin: 10px;
+    
+
+      }
+      .rectangle{
+        height: auto;
+        width: auto;
+        display: flex;
+        text-align: center;
+        justify-content: center;
+      }
+      
+
+.button{
+    display: inline-block;
+    position: relative;
+    right: 220px;
+margin-top: 130px;
+
+    background-color: dodgerblue;
+    border-radius: 10px;
+}
+
+.download-button{
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+
+.Touch{
+    text-align: center;
+    padding: 3%;
+    line-height: 2;
+    color: black;
+}
+
+#footer{
+    text-align: center;
+    background-color: lightblue;
+    height: 12rem;
+    padding-top: 5%;
+    margin-top: 30px;
+}
+.container-fluid{
+    margin: 0%;
+}
+#footer-2{
+    height:15rem;
+    width: auto;
+    background-color: lightblue;
+    text-align: center;
+    padding-top: 60px;
+
+}
+
+#page{
+    background-color: #ff4c68;
+    height: auto;
+}
+
+.social-icon{
+    margin: 20px 10px;
+}
+.image-2{
+    float: left;
+    border-radius: 15% 50% 15% 0%;
+    max-height: 80%;
+    max-width: 80%;
+}
